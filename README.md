@@ -1,3 +1,3 @@
-![CI](https://github.com/freelandos/AHJ-HW-3_Whack_Goblin_Game/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/selivados/AHJ-HW-3_Whack_Goblin_Game/actions/workflows/web.yml/badge.svg)
 
-[GitHub Pages](https://freelandos.github.io/AHJ-HW-3_Whack_Goblin_Game/)
+[GitHub Pages](https://selivados.github.io/AHJ-HW-3_Whack_Goblin_Game/)
